@@ -1,0 +1,2876 @@
+[ 2014-08-13T11:16:58+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:19:59+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2014-08-13T11:27:35+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:31:16+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:34:43+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:35:19+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:37:39+08:00 ] 127.0.0.1 /028jiajiao/Index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:46:09+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:48:33+08:00 ] 127.0.0.1 /028jiajiao/Index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:53:17+08:00 ] 127.0.0.1 /028jiajiao/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T11:53:24+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:index
+
+[ 2014-08-13T11:53:53+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:53:54+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:53:54+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:54:45+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:55:20+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:56:28+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:56:30+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:56:30+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:56:42+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:56:43+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:56:43+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:56:44+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2014-08-13T11:57:06+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T11:57:06+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:57:09+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2014-08-13T11:57:28+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:57:50+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:58:16+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T11:58:55+08:00 ] 127.0.0.1 /028jiajiao/home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:58:55+08:00 ] 127.0.0.1 /028jiajiao/home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:58:55+08:00 ] 127.0.0.1 /028jiajiao/home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:59:52+08:00 ] 127.0.0.1 /028jiajiao/home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T11:59:52+08:00 ] 127.0.0.1 /028jiajiao/home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T11:59:52+08:00 ] 127.0.0.1 /028jiajiao/home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:00:04+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:00:34+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:00:34+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:00:35+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:Home
+
+[ 2014-08-13T12:00:47+08:00 ] 127.0.0.1 /028jiajiao/Home/Regxy/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2014-08-13T12:00:51+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:01:18+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:01:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:01:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:01:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:01:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/__GROUP__/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:__GROUP__
+
+[ 2014-08-13T12:01:48+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:02:50+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T12:02:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:02:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:02:55+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:02:55+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:02:57+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:03:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_xy/ku_xy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_xy
+
+[ 2014-08-13T12:03:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_jy/ku_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_jy
+
+[ 2014-08-13T12:03:16+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_xy/ku_xy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_xy
+
+[ 2014-08-13T12:03:18+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:03:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T12:03:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:03:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:03:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T12:03:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:03:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:03:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:03:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:04:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:04:11+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_xy/ku_xy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_xy
+
+[ 2014-08-13T12:05:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/zhuce_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/jiaoyuan-zhuce.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/Validform_v5.3.2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:20+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/zhuce_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/jiaoyuan-zhuce.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.007000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/Validform_v5.3.2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T12:08:31+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T12:08:35+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:08:35+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:08:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:08:39+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_xy/ku_xy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Ku_xy
+
+[ 2014-08-13T12:10:23+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:10:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:10:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T12:11:40+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_jy/Ku_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_jy
+
+[ 2014-08-13T12:15:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_jy/ku_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_jy
+
+[ 2014-08-13T12:16:39+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:16:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_jy/ku_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_jy
+
+[ 2014-08-13T12:17:03+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:17:05+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:17:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T12:17:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_xy/ku_xy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Ku_xy
+
+[ 2014-08-13T12:18:55+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Ku_jy/ku_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Ku_jy
+
+[ 2014-08-13T12:19:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:19:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[id=>Array]
+
+[ 2014-08-13T12:19:18+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T12:19:26+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[id=>Array]
+
+[ 2014-08-13T13:42:57+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-08-13T13:42:59+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[pid=>Array]
+
+[ 2014-08-13T13:57:03+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T13:57:05+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:26:49+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/zhuce_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T14:26:50+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/jiaoyuan-zhuce.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/Validform_v5.3.2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T14:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T14:26:53+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T14:31:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:31:57+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:42:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:42:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T14:42:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T14:42:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T14:42:16+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:42:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T14:42:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:42:29+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:43:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:43:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T14:44:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:45:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:45:43+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:45:57+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T14:46:02+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:46:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T14:48:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:49:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:51:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:55:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T14:58:35+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:59:26+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T14:59:41+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T15:03:16+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:03:18+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:03:23+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:05:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:05:03+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T15:05:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T15:05:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:06:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:06:51+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:06:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:07:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:07:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:07:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:07:11+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:07:59+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:08:03+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:08:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T15:08:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T15:08:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:08:29+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:08:30+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:08:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:08:44+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:08:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:08:59+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:11:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T15:12:11+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:12:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:12:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:12:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:12:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T15:13:31+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:13:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:13:35+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:13:45+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:14:46+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:14:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:15:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T15:21:26+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2014-08-13T15:26:18+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:26:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:26:23+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T15:26:49+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:26:51+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:29:56+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T15:30:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:30:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:16+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:30:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:35:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T15:35:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:35:58+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T15:36:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:16:47+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:16:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:17:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/562.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:17:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/561.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:17:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/560.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:17:51+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/553.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:17:53+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/548.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:18:05+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/545.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/542.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/543.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/546.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/551.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/556.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/560.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:31+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/555.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/554.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T16:18:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/552.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T16:18:40+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:47+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/551.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:51+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/552.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:18:57+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/551.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:19:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:20:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:00+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:00+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T16:21:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/550.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:21:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:23:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:23:15+08:00 ] 127.0.0.1 /028jiajiao/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:23:16+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:23:49+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T16:25:39+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:25:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:25:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T16:25:47+08:00 ] 127.0.0.1 /028jiajiao/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:25:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:27:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:27:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:27:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T16:29:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:29:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/562.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:31:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/562.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T16:31:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/561.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:31:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/560.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:31:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/559.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T16:32:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/559.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:32:26+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:32:30+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/562.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:32:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/561.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:33:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/561.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:33:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/561.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:33:30+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:34:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/zhuce_jy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:34:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/jiaoyuan-zhuce.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T16:34:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T16:34:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/js/Validform_v5.3.2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T16:34:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T16:35:00+08:00 ] 127.0.0.1 /028jiajiao/Home/js/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T16:35:00+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T16:35:00+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T16:35:00+08:00 ] 127.0.0.1 /028jiajiao/Home/Regjy/scripts/fullAvatarEditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:scripts
+
+[ 2014-08-13T16:35:00+08:00 ] 127.0.0.1 /028jiajiao/Home/js/kindeditor-all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2014-08-13T16:35:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:35:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:35:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/562.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T16:36:31+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:36:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:37:06+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:37:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:37:48+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:37:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:37:56+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/562.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:38:00+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/556.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:39:06+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/556.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:39:11+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:39:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:40:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:40:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:41:39+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:41:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:41:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:41:56+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:42:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T16:52:01+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T16:53:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[id=>Array]
+
+[ 2014-08-13T16:55:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[id=>Array]
+
+[ 2014-08-13T16:55:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T16:56:03+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:56:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:58:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T16:58:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T17:01:11+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./Index/Home/View/Kuxy/index.html
+
+[ 2014-08-13T17:01:11+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./Index/Home/View/Kuxy/index.html
+
+[ 2014-08-13T17:01:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T17:03:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:05:45+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:07:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:07:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:07:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:08:46+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:09:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:11:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T17:11:31+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:13:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T17:13:53+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T17:14:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:17:15+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:18:00+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:18:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:18:32+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:20:06+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:20:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:20:29+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:20:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:22:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:28:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:index
+
+[ 2014-08-13T17:29:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:index
+
+[ 2014-08-13T17:29:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:29:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:30:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T17:30:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:30:58+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:31:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:31:14+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:32:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:32:29+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:32:53+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:33:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:33:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:33:40+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/842.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:33:44+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/841.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:33:47+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/840.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:34:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/840.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:34:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/840.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:34:53+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:35:16+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:35:19+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:35:29+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:35:55+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T17:36:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:36:31+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:36:43+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:36:59+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T17:37:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:37:18+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:39:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T17:40:27+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:40:30+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:40:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:40:43+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:40:45+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:40:47+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:40:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:40:56+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T17:40:59+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:41:02+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:41:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:41:26+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:41:30+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/842.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T17:41:33+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/841.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:41:35+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/840.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:42:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/840.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:42:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/832.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:42:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:42:41+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:42:46+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/337.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:42:56+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T17:43:37+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:43:38+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T17:43:38+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T17:43:39+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:43:42+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:43:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:43:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T17:45:05+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy/p/1109.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T18:07:00+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy/p/1109.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T18:07:10+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:07:17+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:07:22+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:07:31+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T18:09:58+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:10:07+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T18:10:15+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:11:47+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:12:06+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:12:11+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:12:41+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:13:05+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:19:52+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:20:04+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:20:25+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:24:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:24:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:27:44+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:28:01+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T18:34:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:37:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:37:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:37:21+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:37:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:38:14+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:38:14+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:38:14+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T18:38:14+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:42:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:42:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:42:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T18:42:29+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:42:38+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 错误的查询条件:[Myfirstjob=>Array]
+
+[ 2014-08-13T18:43:58+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:44:06+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:44:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:45:36+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[Myfirstjob=>Array]
+
+[ 2014-08-13T18:51:18+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:51:26+08:00 ] 127.0.0.1 /028jiajiao/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:51:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:51:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:52:03+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:52:28+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[Myfirstjob=>Array]
+
+[ 2014-08-13T18:52:42+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:53:11+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:53:33+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:58:59+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T18:59:03+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:59:46+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T18:59:50+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:01:23+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:02:48+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:02:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:02:51+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:02:58+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:03:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:03:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:03:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:03:38+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:03:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:04:28+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:04:36+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[Myfirstjob=>Array]
+
+[ 2014-08-13T19:06:09+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:index
+
+[ 2014-08-13T19:06:13+08:00 ] 127.0.0.1 /028jiajiao/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:06:15+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T19:06:21+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[yfirstjob=>Array]
+
+[ 2014-08-13T19:07:39+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:07:43+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 错误的查询条件:[Myfirstjob=>Array]
+
+[ 2014-08-13T19:08:05+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:08:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:08:14+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:09:33+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:09:40+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:09:44+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:10:41+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:10:52+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:11:22+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:11:48+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:11:50+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-08-13T19:11:57+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/337.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:12:07+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:12:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T19:12:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T19:12:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:12:26+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:26:38+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-08-13T19:26:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:27:04+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:27:18+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:27:39+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T19:27:46+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-08-13T19:29:00+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-08-13T19:29:12+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:31:56+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:32:12+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-08-13T19:32:20+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:33:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:33:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:33:17+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:33:29+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:34:41+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:34:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:35:04+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:35:36+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:35:44+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:35:51+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:36:12+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T19:36:16+08:00 ] 127.0.0.1 /028jiajiao/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:36:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:36:28+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:36:43+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:37:05+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:38:49+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:38:53+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:39:20+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/842.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:39:25+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:39:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-08-13T19:39:54+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:39:59+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-08-13T19:40:02+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:40:05+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:40:09+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:40:18+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:40:30+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-08-13T19:40:38+08:00 ] 127.0.0.1 /028jiajiao/Home/Kujy/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:41:52+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:41:57+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:41:58+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T19:42:00+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:42:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T19:42:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T19:42:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T19:42:44+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:03:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T20:03:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T20:03:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T20:03:24+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:03:36+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T20:03:43+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:03:46+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/news.asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:news.asp
+
+[ 2014-08-13T20:19:04+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:19:08+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/jiaoyuaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:19:17+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:19:46+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-08-13T20:19:48+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/xueyuaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:22:34+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/xueyuaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:23:49+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/xueyuaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:26:21+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/kujy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:26:22+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kujy/jiaoyuaninfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:27:10+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Kuxy/kuxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-08-13T20:27:12+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regjy/regjy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:27:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/regxy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-08-13T20:27:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T20:27:13+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Regxy/js/Reg_XY.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:js
+
+[ 2014-08-13T20:27:15+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-08-13T20:27:51+08:00 ] 127.0.0.1 /028jiajiao/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

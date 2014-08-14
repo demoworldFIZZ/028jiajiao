@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="gb2312" />
+<link rel="shortcut icon" href="__PUBLIC__/favicon.ico" />
+<link href="__PUBLIC__/css/indexcss.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style3 {color: #999999}
+.style6 {color: #FFFFFF; font-weight: bold; }
+.style8 {color: #FFFFFF; font-weight: bold; font-size: 14px; }
+.text {
+	line-height: 20px;
+}
+.style7 {color: #cc0000}
+.xueyuan td{
+line-height:30px;
+text-align:center;
+text-align: center;
+}
+td .textleft{
+text-align: left;
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.td .txtleft p{
+}
+-->
+</style>
+</head>
+<body>
+
+<include file='Common:top'/>
+<center>
+ <!--学员信息开始-->
+ <div class="navbar"><div class="box">目前所有位置: <a href="/">首页</a> &gt;<a href="/xueyuan.asp">学员信息库</a>&gt;学员详细信息</div></div>
+<div class="g-box-list relative">
+  <div class="g-jiaoyuan-page f-fl">
+    <div class="box">
+      <p><span class="f-fr">学员编号：<{$data2.xyid}></span>学员详细信息资料</p>
+      <strong style="float:left">基本信息</strong>
+	<table width="100%" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#dddddd">
+        <tr>
+          <td class="f-jiaoyuan-1" width="181">编&nbsp;&nbsp;&nbsp;&nbsp;号</td>
+          <td class="f-jiaoyuan-2"><{$data2.xyid}></td>
+          <td class="f-jiaoyuan-3" width="178">家长姓名</td>
+          <td class="f-jiaoyuan-4" width="819"><{$data2.jzname|msubstr=0,1}><{$data2.jzsex}></td>
+        </tr>
+        <tr>
+          <td class="f-jiaoyuan-1" width="181">学员性别</td>
+          <td class="f-jiaoyuan-2"><{$data2.xysex}></td>
+          <td class="f-jiaoyuan-3" width="178">学员年级</td>
+          <td class="f-jiaoyuan-4" width="819"><{$data2.xygrade}></td>
+        </tr>
+        <tr>
+          <td class="f-jiaoyuan-1" width="181">家教科目</td>
+          <td class="f-jiaoyuan-2"><{$data2.fdkemu}></td>
+          <td class="f-jiaoyuan-3" width="178">家教价格</td>
+          <td class="f-jiaoyuan-4" width="819"><{$data2.xinchou}></td>
+        </tr>
+       <tr>
+          <td class="f-jiaoyuan-1" width="181">家教区域</td>
+          <td class="f-jiaoyuan-2"><{$data2.jzdiqu}></td>
+          <td class="f-jiaoyuan-3" width="178">家教地址</td>
+          <td class="f-jiaoyuan-4" width="819"><{$data2.jzdizhi}></td>
+        </tr>
+        <tr>
+          <td class="f-jiaoyuan-1" width="181">家教时间</td>
+          <td class="f-jiaoyuan-2" ><{$data2.skshijian}></td>
+          <td class="f-jiaoyuan-1" width="181">特殊要求</td>
+          <td class="f-jiaoyuan-2" ><{$data2.jzbeizhu}></td>
+        </tr>
+         <tr>
+          <td class="f-jiaoyuan-1" width="181">教员性别要求</td>
+          <td class="f-jiaoyuan-2"><{$data2.jysex}></td>
+          <td class="f-jiaoyuan-3" width="178">教员学历要求</td>
+          <td class="f-jiaoyuan-4" width="819"><{$data2.jyshenfen}></td>
+        </tr>
+        <tr>
+          <td class="f-jiaoyuan-1" width="181">马上预约</td>
+          <td colspan="3"  >
+
+			<div align="left" style="lajiie">
+				<font color="#0982BA" size="+1"  face="微软雅黑">教员专线：</font><b><font color="red" size="+2">028-66725630</font></b>（早9-晚11点）</div>
+			<div align="left" style="lajiie">
+				<font color="#999999">在预约前请先注册，然后查看学员的辅导时间和辅导地点<span lang="zh-cn">与</span>自己是否相符，<span lang="zh-cn">如果没问题可以做</span>请和我们联系。</font></div>
+			</td>
+        </tr>
+        <tr>
+          <td class="f-jiaoyuan-1" width="181">服务热线</td>
+          <td class="f-jiaoyuan-2 qq" colspan="3"><img src="__PUBLIC__/images/yyy.png"></td>
+        </tr>
+        </table>
+      
+    </div>
+  </div>
+  <br class="f-cb">
+  <div class="zhaopin absolute">已审核</div>
+  <div id="output" class="absolute"></div>
+</div>
+<include file="Common:bottom"/>
+</center>
+</body>
+</html>

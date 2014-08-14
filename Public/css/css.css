@@ -1,0 +1,132 @@
+*{
+	margin:0;
+	padding:0;
+}
+table, tr, td, p, ul, ol, li, dingdan_title{
+	border-collapse:collapse;
+	text-align:left;
+	border-spacing: 0;
+}
+
+  body{font-size:12px; color:#222222;background-color:#DADADA; background:url(../images/bg.gif); width:100%}
+  body,table,tr,td,p {font-size:12px; color:#222222;margin:0px;}
+
+  a:link {color:#222222;text-decoration:none;}
+  a:visited {color:#666666;text-decoration:none;}
+  a:hover {color:#FF3300;text-decoration:none;}
+  a:active {color:#222222;text-decoration:none} 
+
+
+
+
+/**{
+    margin: 0;
+    padding: 0;
+}
+  body,table,tr,td {font-size:12px;margin:0px;}
+  body{font-size:12px; color:#222222;margin:0px;background-color:#DADADA; background:url(../images/bg.gif);}
+  a:link {color:#575757;text-decoration:none;}
+  a:visited {color:#888888;text-decoration:none;}
+  a:hover {color:#cc0000;text-decoration:underline;}
+  a:active {color:#888888;text-decoration:none}
+*/
+  
+  .dh {font-size:12px; color: #ffffff;}
+  .dh:link {color: #ffffff; text-decoration: none;}
+  .dh:visited {color: #ffffff; text-decoration: none;}
+  .dh:hover {color: #ffffff; text-decoration: none;}
+  .dh:active {color: #ffffff; text-decoration: none;}
+    
+  .show {font-size:12px; color: #575757;}
+  .show:link {color: #cc0000; text-decoration: none;}
+  .show:visited {color: #cc0000; text-decoration: none;}
+  .show:hover {color: #cc0000; text-decoration: underline;}
+  .show:active {color: #cc0000; text-decoration: none;}
+ 
+  .input {BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 14px;font-color:#000000;vertical-align:middle;height:21px; BORDER-LEFT: #cccccc 1px solid; COLOR: #666666; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #ffffff}
+
+.jylist{
+line-height:30px;
+}
+.qingdan tr:hover {
+	background-color: #C0C0C0;}
+select{
+		width:100%;}
+.g-box-list-page .box,.navbar .box{margin:15px;width:950px; }
+.g-box-list-page a{padding:5px 10px; background:#eee}
+.g-box-list-page a:hover{background:#ddd}
+.s-reg .box{margin:50px 100px;font-size:14px; line-height:180%;}
+.s-reg .box h2{font-size:18px;}
+#m-tb .box{width:930px;margin:0 auto;padding-left:50px;background:url(/2014/images/tel-logo.png)5px 1px no-repeat;position:relative;font-size:20px;color:#fff;font-weight:bold; font-family:Arial, 微软雅黑, 'Microsoft YaHei';}
+.u-tag .tag-box{padding:15px 40px;}
+/* 例表公共*/
+.g-box-list{width:980px;margin:0 auto;height:auto;background:#fff;margin-top:10px; border:1px solid #ddd;}
+.g-box-list-page{width:980px;margin:0 auto;text-align:center;height:100%;background:#fff;margin-top:15px; border:1px solid #ddd;}
+.g-box-list-page .box,.navbar .box{margin:17px;width:950px; }
+.g-box-list-page a{padding:5px 10px; background:#eee}
+.g-box-list-page a:hover{background:#ddd}
+.navbar2{box-sizing:border-box;width:980px;margin:0 auto;height:50px;line-height:50px;padding-left:15px; background:url(../images/bg2.jpg);margin-top:10px; border:1px solid #ddd; text-align:left}
+.relative{position:relative;}
+.absolute{position:absolute}
+
+.g-jiaoyuan-page{margin:25px 60px;width:860px;}
+.g-jiaoyuan-page td{line-height:35px;color:#444;padding-left:5px;}
+.g-jiaoyuan-page tr{background:#fff;border-bottom: dashed 1px #ccc;}
+.g-jiaoyuan-page strong{line-height:40px;font-size:14px; font-weight:bold;}
+.g-jiaoyuan-page p{ font-size:16px; font-weight:bold; border-bottom:1px solid #ddd; height:50px; line-height:50px; text-align:left; color:#be0b0b}
+.g-jiaoyuan-page .f-jiaoyuan-1{color:#0982ba;font-size:14px;font-weight:bold;width:70px; background:#fafafa}
+.g-jiaoyuan-page .f-jiaoyuan-2{width:130px;}
+.g-jiaoyuan-page .f-jiaoyuan-3{color:#0982ba;font-size:14px;font-weight:bold;width:70px;background:#fafafa}
+.g-jiaoyuan-page .f-jiaoyuan-4{width:170px;}
+.g-jiaoyuan-page .f-jiaoyuan-5{color:#0982ba;font-size:14px;font-weight:bold;width:70px;background:#fafafa}
+.g-jiaoyuan-page .f-jiaoyuan-6{width:130px;}
+.g-jiaoyuan-page .f-jiaoyuan-7{color:#0982ba;font-size:14px;font-weight:bold;width:145px;}
+.g-jiaoyuan-page em{font-family:Georgia;font-size:24px;padding:0 5px;color:#ff8e28; font-weight:100}
+.g-jiaoyuan-page a{color:#f00;}
+.g-jiaoyuan-page a:hover{color:#666;}
+.g-box-list .zhuangtai{height:260px; width:200px;top:200px; right:0px; background:url(/2014/images/sh.gif) 0px 15px no-repeat; text-indent:-9999px}
+.g-box-list .zhaopin{height:260px; width:200px;top:200px; right:00px; background:url(/2014/images/zp.gif) 0px 15px no-repeat; text-indent:-9999px}
+.line2 li{float:left; width:300px; height:40px; line-height:40px; font-size:14px;color:#0982ba;}
+.f-cb{clear:both;height:0;overflow:hidden;}
+.f-fl{float:left}
+.f-fr{float:right}
+.f-qjj{margin:0 auto; text-align:center;width:100%;}
+.f-qjz{color:#333333; font-size:24px;font-weight:700; }
+.hr01{margin-top:20px; border:#16A086 solid 1px;}
+.tujin{font-size:18px;}
+.b_tujin{font-size:14px;font-weight:700; }
+.tujin_span{font-size:14px; }
+.tujin_t{font-size:18px; color:#F00;}
+.tujin_s{color:#F00;}
+.f-tac{text-align:center;}
+.f-tal{text-align:left;}
+.f-tar{text-align:right;}
+.s-b1{background:#fff url(/2014/images/aa.gif) 0px 0px no-repeat;}
+.relative{position:relative;}
+.absolute{position:absolute}
+.aboutwe{
+	width:980px;
+	text-align:center;
+		background:#FFf;
+		margin:0 auto;
+	
+}
+.aboutsm{
+	margin:0 auto;
+	width:900px;
+	margin-top:10px;
+	text-align:left;
+	letter-spacing:2px;
+	padding-top:20px;
+}
+.aboutsm p{
+	font-family:"微软雅黑",Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	
+}
+.jiaoyuzx{
+	width:980px;
+	background:#FFF;
+	margin:0 auto;
+	margin-top:10px;
+}
